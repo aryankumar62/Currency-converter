@@ -4,7 +4,7 @@ A simple and responsive web application that converts currencies in real-time us
 
 🌐 Live Demo
 
-👉 https://aryankumar62.github.io/currency-converter/
+👉 https://aryankumar62.github.io/Currency-converter/
 
 🚀 Features
 
